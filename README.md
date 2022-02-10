@@ -4,11 +4,11 @@ Assessmentcenter
 
 ## Liste 
 
-a.[x] Markdown ist eine gute Sache
-b.[ ] git add . und git commit -m nervt mich jetzt schon
-c.[ ] Ich hatte schon Frühstück
-d.[ ] Ich habe bereits Erfahrung mit Html & CSS
-e.[x] Ich weiß wofür MERN Stack steht
+- [x] Markdown ist eine gute Sache
+- [ ] git add . und git commit -m nervt mich jetzt schon
+- [ ] Ich hatte schon Frühstück
+- [ ] Ich habe bereits Erfahrung mit Html & CSS
+- [x] Ich weiß wofür MERN Stack steht
  
 ## Emojis 
 
@@ -18,7 +18,7 @@ e.[x] Ich weiß wofür MERN Stack steht
 
 ## Link
 
-[Mohsen`s Github](https://github.com/FbW-WD-22-D01/Mohsen-Martina.git=======
+[Mohsen`s Github](https://github.com/FbW-WD-22-D01/Mohsen-Martina.git)
 # Martina
 Assessmentcenter
 
